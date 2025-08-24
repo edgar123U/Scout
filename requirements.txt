@@ -1,0 +1,2 @@
+scouting_app.py
+requirements.txt
